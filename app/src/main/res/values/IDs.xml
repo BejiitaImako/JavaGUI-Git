@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="YAYid" type="id" >1</item>
+    <item name="HOOid" type="id">2</item>
+    <item name="HAAid" type = "id">3</item>
+    <item name="TJOHOOid" type="id">4</item>
+</resources>
